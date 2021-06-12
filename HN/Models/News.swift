@@ -18,6 +18,6 @@ struct News: Decodable, Identifiable {
     let objectID: String
     let title: String
     let points: Int
-    let url: String
+    let url: String?
     
 }
