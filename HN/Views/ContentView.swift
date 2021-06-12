@@ -23,7 +23,7 @@ struct ContentView: View {
                         HStack {
                             Text(n.title)
                             Spacer()
-                            
+                            Text(n.title)
                         }
                     })
                 
