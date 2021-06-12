@@ -28,7 +28,7 @@ struct ContentView: View {
                     })
                 
             }
-            .navigationBarTitle("Hacker News")
+            .navigationBarTitle("Hackedfdfr News")
         }
         
         .onAppear(perform: {
